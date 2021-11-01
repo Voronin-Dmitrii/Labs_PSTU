@@ -7,24 +7,20 @@ int main()
 	setlocale(LC_ALL, "ru");
 	int a = 0, b  = 0, c = 0, x = 0;
 	bool F = false;
-	cout << "Ââåäèòå òð¸õçíà÷íîå ÷èñëî: ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‚Ñ€Ñ‘Ñ…Ð·Ð½Ð°Ñ‡Ð½Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾: ";
 	cin >> x;
-	while ((x < 100) || (x > 999))
-		cin >> x;
+	F = (x < 100) || (x > 999) || (a == b) || (a == c) || (b == c);
 	a = x % 10;
 	x /= 10;
 	b = x % 10;
 	c = x / 10;
-	while (F == false) {
-		if ((a == b) || (a == c) || (b == c)) {
-			cin >> x;
-			a = x % 10;
-			x /= 10;
-			b = x % 10;
-			c = x / 10;
-		}
-		else
-			F = true;
+	while (F == true) {
+		cin >> x;
+		F = (x < 100) || (x > 999) || (a == b) || (a == c) || (b == c);
+		a = x % 10;
+		x /= 10;
+		b = x % 10;
+		c = x / 10;
 	}
 	cout << a << b << c << endl;
 	cout << a << c << b << endl;
@@ -32,12 +28,15 @@ int main()
 	cout << b << c << a << endl;
 	cout << c << b << a << endl;
 	cout << c << a << b << endl;
-	cout << "Ñàìîå áîëüøîå ÷èñëî: ";
-	if ((a > c) && (a > b)) 
+	cout << "Ð¡Ð°Ð¼Ð¾Ðµ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾: ";
+	F = (a > c) && (a > b);
+	if (F) 
 		cout << a << fmax(b, c) << fmin(b, c);
-	if ((b > c) && (b > a))
-			cout << b << fmax(a, c) << fmin(a, c);
-	if ((c > a) && (c > b))
-			cout << c << fmax(b, a) << fmin(b, a);
+	F = (b > c) && (b > a);
+	if (F)
+		cout << b << fmax(a, c) << fmin(a, c);
+	F = (c > a) && (c > b);
+	if (F)
+		cout << c << fmax(b, a) << fmin(b, a);
 	return 0;
 }
