@@ -1,0 +1,4 @@
+C:\Users\Киберкотлет Срумик\source\repos\quadratic equation calculator\Debug\quadratic equation calculator.vcxproj.AssemblyReference.cache
+C:\Users\Киберкотлет Срумик\source\repos\quadratic equation calculator\Debug\quadratic equation calculator.exe
+C:\Users\Киберкотлет Срумик\source\repos\quadratic equation calculator\Debug\quadraticequationcalculator.MyForm.resources
+C:\Users\Киберкотлет Срумик\source\repos\quadratic equation calculator\Debug\quadratic equation calculator.vcxproj.GenerateResource.cache
