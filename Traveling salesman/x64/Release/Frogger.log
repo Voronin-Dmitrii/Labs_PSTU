@@ -1,0 +1,336 @@
+﻿  Frogger.cpp
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(125,6): warning C4101: result: неиспользованная локальная переменная
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(128,7): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(129,7): warning C4101: b: неиспользованная локальная переменная
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(254,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(254,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(260,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(260,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(266,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(266,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(270,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(270,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(276,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(276,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(281,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(281,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(287,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(287,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(292,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(292,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(298,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(298,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(303,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(303,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(309,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(309,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(314,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(314,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(320,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(320,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(325,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(325,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(338,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(338,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(339,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(339,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(345,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(345,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(346,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(346,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(352,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(352,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(353,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(353,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(359,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(359,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(360,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(360,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(366,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(366,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(367,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(367,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(373,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(373,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(374,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(374,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(380,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(380,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(381,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(381,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(387,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(387,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(388,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(388,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(394,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(394,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(395,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(395,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(400,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(400,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(401,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(401,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(407,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(407,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(408,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(408,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(415,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(415,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(416,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(416,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(422,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(422,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(423,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(423,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(429,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(429,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(430,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(430,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(437,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(437,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(442,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(442,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(447,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(447,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(452,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(452,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(457,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(457,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(462,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(462,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(529,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(529,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(538,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(538,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(542,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Киберкотлет Срумик\source\repos\Frogger\Frogger.cpp(542,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  2 of 88 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Frogger.vcxproj -> C:\Users\Киберкотлет Срумик\source\repos\Frogger\x64\Release\Frogger.exe
