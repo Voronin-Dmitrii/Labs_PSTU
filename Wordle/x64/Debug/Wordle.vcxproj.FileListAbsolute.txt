@@ -1,0 +1,25 @@
+C:\Users\ivoro\source\repos\Wordle\x64\Debug\Wordle.vcxproj.AssemblyReference.cache
+C:\Users\ivoro\source\repos\Wordle\x64\Debug\Wordle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ivoro\source\repos\Wordle\x64\Debug\Wordle.exe
+C:\Users\ivoro\source\repos\Wordle\x64\Debug\Wordle.MyForm.resources
+C:\Users\ivoro\source\repos\Wordle\x64\Debug\Wordle.vcxproj.GenerateResource.cache
+D:\Wordle\x64\Debug\Wordle.vcxproj.AssemblyReference.cache
+D:\Wordle\x64\Debug\Wordle.vcxproj.SuggestedBindingRedirects.cache
+D:\Wordle\x64\Debug\Wordle.MyForm.resources
+D:\Wordle\x64\Debug\Wordle.vcxproj.GenerateResource.cache
+D:\Wordle\x64\Debug\Wordle.exe
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle\x64\Debug\Wordle.vcxproj.AssemblyReference.cache
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle\x64\Debug\Wordle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle\x64\Debug\Wordle.MyForm.resources
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle\x64\Debug\Wordle.vcxproj.GenerateResource.cache
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle\x64\Debug\Wordle.exe
+C:\Users\ivoro\source\repos\Wordle2\x64\Debug\Wordle.vcxproj.AssemblyReference.cache
+C:\Users\ivoro\source\repos\Wordle2\x64\Debug\Wordle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ivoro\source\repos\Wordle2\x64\Debug\Wordle.MyForm.resources
+C:\Users\ivoro\source\repos\Wordle2\x64\Debug\Wordle.vcxproj.GenerateResource.cache
+C:\Users\ivoro\source\repos\Wordle2\x64\Debug\Wordle.exe
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle2\x64\Debug\Wordle.vcxproj.AssemblyReference.cache
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle2\x64\Debug\Wordle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle2\x64\Debug\Wordle.MyForm.resources
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle2\x64\Debug\Wordle.vcxproj.GenerateResource.cache
+C:\Users\Киберкотлет Срумик\Desktop\пнипу\Практика 2022\Wordle2\x64\Debug\Wordle.exe
